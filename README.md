@@ -8,7 +8,7 @@
 
 - 👯 I’m open for collaboration on projects across various domains
 
-- 🤝 I’m looking for the content writer for my website
+- 🤝 I’m looking for the hwlp in content writing for my website
 
 - ⚡ Fun fact: One thing i cannot live without is my Gadgets
 
