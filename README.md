@@ -8,9 +8,9 @@
 
 - 👯 I’m open for collaboration on projects across various domains
 
-- 🤝 I’m looking for the hwlp in content writing for my website
+- 🤝 I’m looking for the help in content writing for my website
 
-- ⚡ Fun fact: One thing i cannot live without is my Gadgets
+- ⚡ Fun fact: One thing i cannot live without is my Gadgets and also they cannot live without me too 
 
 - 💬 Ask me about anything you want to ask i am happy to help if it's in my reach
 
