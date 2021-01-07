@@ -1,5 +1,5 @@
 <h1 align="center">Hello world!&nbsp;<img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Earth.gif" width="24px"></h1>
-<h2 align="center">Hey there, <img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Hi.gif" width="24px"> I'm Harneet Kumar</h2>
+<h2 align="center">Hey there, <img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Hi.gif" width="24px"> I'm [Harneet Kumar][website]</h2>
 
 <img align='right' src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/PicsArt_07-30-12.01.01.jpg" width="230" />
 
@@ -54,3 +54,5 @@
 
 
 [![Harneet's Github Stats](https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&count_private=true)](https://github.com/harnitsoni28/github-readme-stats)
+
+[website]: https://harnitsoni28.github.io/
