@@ -1,4 +1,5 @@
-<h1 align="center">Hey there, 👋 I'm Harneet Kumar</h1>
+<h1 align="center">Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"></h1>
+<h2 align="center">Hey there, 👋 I'm Harneet Kumar</h2>
 
 - 👨🏻‍🎓 I’m a Computer Science and Engineering Undergraduate at **MAHARISHI MARKANDESHWAR ENGINEERING COLLEGE -[MMEC], AMBALA**
 
@@ -33,6 +34,6 @@
 <a href = "https://www.linux.org/" target = "_blank"><img src = "https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt = "linux" width = "40" height = "40" /></ a>
 <a href = "https://git-scm.com/" target = "_blank"><img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "40" height = "40" /></ a>
 </ p>
-
+<img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="200px"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&theme=dark&title_color=f3b526&text_color=f14fc4&cache_seconds=3000&locale=en" alt="harnitsoni28" /></p>
