@@ -52,4 +52,5 @@
 </ p>
 <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="200px"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&theme=dark&title_color=f3b526&text_color=f14fc4&cache_seconds=3000&locale=en" alt="harnitsoni28" /></p>
+
+[![Harneet's Github Stats] (https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&count_private=true)](https://github.com/harnitsoni28/github-readme-stats)
