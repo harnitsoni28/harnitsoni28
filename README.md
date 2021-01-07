@@ -50,7 +50,7 @@
 <a href = "https://www.linux.org/" target = "_blank"><img src = "https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt = "linux" width = "40" height = "40" /></ a>
 <a href = "https://git-scm.com/" target = "_blank"><img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "40" height = "40" /></ a>
 </ p>
-<img align="center" src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Earth.gif" width="200px"/>
+<img align="center" src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Developer.gif" width="200px"/>
 
 
 [![Harneet's Github Stats](https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&count_private=true)](https://github.com/harnitsoni28/github-readme-stats)
