@@ -1,6 +1,10 @@
 <h1 align="center">Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"></h1>
 <h2 align="center">Hey there, 👋 I'm Harneet Kumar</h2>
 
+<img align='right' src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/PicsArt_07-30-12.01.01.jpg" width="230" />
+
+
+
 - 👨🏻‍🎓 I’m a Computer Science and Engineering Undergraduate at **MAHARISHI MARKANDESHWAR ENGINEERING COLLEGE -[MMEC], AMBALA**
 
 - 🔭 I’m currently working on backend of the website and android devlopment project
