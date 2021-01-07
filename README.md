@@ -18,10 +18,22 @@
 - 📫 Reach me at harnitsoni8@gmail.com
 
 
-- 🔗 **Connect with Me** :  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harnitsoni28)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harneet-kumar/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HarnitSoni)  
+<div align="center">
+  <h3 align="center">Contact me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/harneet-kumar/" target="blank">
+  <img align="center" alt="Harneet's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/HarnitSoni" target="blank">
+  <img align="center" alt="Harneet's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+<a href="harnitsoni8@gmail.com" target="blank">
+  <img align="center" alt="Harneet's Emaail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+ </a> 
+</p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
