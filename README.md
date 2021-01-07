@@ -53,4 +53,4 @@
 <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="200px"/>
 
 
-[![Harneet's Github Stats] (https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&count_private=true)](https://github.com/harnitsoni28/github-readme-stats)
+[![Harneet's Github Stats](https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&count_private=true)](https://github.com/harnitsoni28/github-readme-stats)
