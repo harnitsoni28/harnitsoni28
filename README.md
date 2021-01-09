@@ -1,5 +1,5 @@
 <h1 align="center">Hello world!&nbsp;<img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Earth.gif" width="24px"></h1>
-<h2 align="center">Hey there, <img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Hi.gif" width="24px"> I'm [Harneet Kumar!](https://harnitsoni28.github.io/)</h2>
+<h2 align="center">Hey there, <img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Hi.gif" width="24px"> I'm Harneet Kumar</h2>
 <img align='right' src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/PicsArt_07-30-12.01.01.jpg" width="230" />
 
 
