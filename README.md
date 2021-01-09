@@ -1,7 +1,7 @@
 <h1 align="center">Hello world!&nbsp;<img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Earth.gif" width="24px"></h1>
-<h2 align="center">Hey there, <img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Hi.gif" width="24px"> I'm Harneet Kumar</h2>
+<h2 align="center">Hey there, <img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Hi.gif" width="24px"></h2>
+I am [Harneet Kumar]
 <img align='right' src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/PicsArt_07-30-12.01.01.jpg" width="230" />
-
 
 
 - 👨🏻‍🎓 I’m a Computer Science and Engineering Undergraduate at **MAHARISHI MARKANDESHWAR ENGINEERING COLLEGE -[MMEC], AMBALA**
@@ -46,7 +46,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </ p>
