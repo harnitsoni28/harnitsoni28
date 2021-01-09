@@ -19,6 +19,8 @@
 
 - 📫 Reach me at harnitsoni8@gmail.com
 
+- ✏️ Checkout my portfolio [Harneet Kumar]
+
 
 <div align="center">
   <h3 align="center">Contact me<img align="center" src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Handshake.gif" height="33px" /></h3> 
