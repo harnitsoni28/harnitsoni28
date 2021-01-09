@@ -1,5 +1,5 @@
 <h1 align="center">Hello world!&nbsp;<img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Earth.gif" width="24px"></h1>
-<h2 align="center">Hey there, <img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Hi.gif" width="24px"> I'm Harneet Kumar</h2>
+<h2 align="center">Hey there, <img src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Hi.gif" width="24px"> I'm [Harneet Kumar!](https://harnitsoni28.github.io/)</h2>
 <img align='right' src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/PicsArt_07-30-12.01.01.jpg" width="230" />
 
 
@@ -38,17 +38,19 @@
 
 
 
-
 <h3 align="left">Languages and Tools:</h3>
-
 <p align = "left">
-<a href = "https://www.cprogramming.com/" target = "_blank"><img src = "https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt = "c" width = "40" height = "40" /></ a>
-<a href = "https://www.w3schools.com/cpp/" target = "_blank"><img src = "https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt = "cplusplus" width = "40" height = "40" /></ a>
-</a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href = "https://www.opencv.org/" target = "_blank"><img src = "https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt = "opencv" width = "40" height = "40" /></ a>
-<a href = "https://www.linux.org/" target = "_blank"><img src = "https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt = "linux" width = "40" height = "40" /></ a>
-<a href = "https://git-scm.com/" target = "_blank"><img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "40" height = "40" /></ a>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </ p>
+
 <img align="center" src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Developer.gif" width="200px"/>
 
 
