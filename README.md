@@ -19,7 +19,7 @@
 
 - 📫 Reach me at harnitsoni8@gmail.com
 
-- ✏️ Checkout my portfolio [Harneet Kumar]
+- ✏️ Checkout my portfolio [Harneet Kumar] and my blogs [Harneet Kumar's Blog]
 
 
 <div align="center">
@@ -57,3 +57,4 @@
 [![Harneet's Github Stats](https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&count_private=true)](https://github.com/harnitsoni28/github-readme-stats)
 
 [Harneet Kumar]: https://harnitsoni28.github.io/
+[Harneet Kumar's Blog]: https://harnitsoni28.hashnode.dev/
