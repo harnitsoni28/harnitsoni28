@@ -56,5 +56,8 @@
 
 [![Harneet's Github Stats](https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&count_private=true)](https://github.com/harnitsoni28/github-readme-stats)
 
+#### Top Languages 👨‍💻
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=harnitsoni28&show_icons=true&theme=radical'/>
+
 [Harneet Kumar]: https://harnitsoni28.github.io/
 [Harneet Kumar's Blog]: https://harnitsoni28.hashnode.dev/
