@@ -53,10 +53,11 @@
 
 <img align="center" src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/Gif/Developer.gif" width="200px"/>
 
+#### Stats 👨‍💻
+<img align='center' src='https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&theme=radical'/>
 
-[![Harneet's Github Stats](https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&count_private=true)](https://github.com/harnitsoni28/github-readme-stats)
 
-#### Top Languages 👨‍💻
+#### Languages 👨‍💻
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=harnitsoni28&show_icons=true&theme=radical'/>
 
 [Harneet Kumar]: https://harnitsoni28.github.io/
