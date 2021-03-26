@@ -57,7 +57,7 @@
 
 <p align="center">
 <a href="https://github.com/harnitsoni28">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=parasg1999&layout=compact&hide=html&langs_count=5&theme=algolia&hide_border=true"/>&nbsp;
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=harnitsoni28&layout=compact&hide=html&langs_count=5&theme=algolia&hide_border=true"/>&nbsp;
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harnitsoni28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=en&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harnitsoni28&theme=algolia&hide_border=true" alt="streak-harnitsoni28" />
 </a>
