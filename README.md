@@ -3,7 +3,7 @@
 <img align='right' src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/black%26white.jpg" width="230" />
 
 
-- 👨🏻‍🎓 I’m a Computer Science and Engineering Undergraduate at **MAHARISHI MARKANDESHWAR ENGINEERING COLLEGE -[MMEC], AMBALA**
+- 👨🏻‍🎓 I’m a Software Engineer at **Infosys Ltd.** & Computer Science and Engineering grad from **MAHARISHI MARKANDESHWAR ENGINEERING COLLEGE -[MMEC], AMBALA**
 
 - 🔭 I’m currently working on backend of the website and android devlopment project
 
