@@ -5,13 +5,13 @@
 
 - 👨🏻‍🎓 I’m a Software Engineer at **Infosys Ltd.** & Computer Science and Engineering grad from **MAHARISHI MARKANDESHWAR ENGINEERING COLLEGE -[MMEC], AMBALA**
 
-- 🔭 I’m currently working on backend of the website and android devlopment project
+- 🔭 I’m currently working on Data Engineering projects 
 
-- 🌱 I’m currently learning and exploring almost everything
+- 🌱 I’m currently learning and exploring almost everything use in Data Engineering
 
 - 👯 I’m open for collaboration on projects across various domains
 
-- 🤝 I’m looking for the help in content writing for my website
+- 🤝 I’m looking for Data Engineer comunity to learn and grow step by step
 
 - ⚡ Fun fact: One thing i cannot live without is my Gadgets and also they cannot live without me too 
 
