@@ -3,9 +3,11 @@
 <img align='right' src="https://github.com/harnitsoni28/harnitsoni28/blob/main/image/black%26white.jpg" width="230" />
 
 
-- 👨🏻‍🎓 I’m a Software Engineer at **Infosys Ltd.** & Computer Science and Engineering grad from **MAHARISHI MARKANDESHWAR ENGINEERING COLLEGE -[MMEC], AMBALA**
+- 💻I’m a Data Engineer at **Infosys Ltd.** 
 
-- 🔭 I’m currently working on Data Engineering projects 
+- 👨🏻‍🎓I have my B.tech in CSE from **MAHARISHI MARKANDESHWAR ENGINEERING COLLEGE -[MMEC], AMBALA**
+
+- 🔭 I’m currently working on Data Engineering projects with CVS Health 
 
 - 🌱 I’m currently learning and exploring almost everything use in Data Engineering
 
